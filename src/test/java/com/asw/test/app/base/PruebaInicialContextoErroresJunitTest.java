@@ -1,4 +1,4 @@
-package com.asw.test.app.app_test;
+package com.asw.test.app.base;
 
 import static org.junit.jupiter.api.Assertions.fail;
 
